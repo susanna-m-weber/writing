@@ -1,2 +1,5 @@
-# writing
-A collection of presentations and reports that I have worked on. 
+# Scientific Writing Samples 
+
+This repo is a collection of scientific writing I've done for reports, presenttaions, and scholarship applications. 
+
+
